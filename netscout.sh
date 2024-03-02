@@ -6,6 +6,8 @@ yellow="\033[0;33m"
 blue="\033[38;5;51m"
 reset="\033[0m" # Reset color to default
 
+clear
+
 toilet -f mono12 -F metal -W __NET__ _SCOUT__ | lolcat
 echo -e "\nAUTOMATED NETWORK EXPLORER" | lolcat
 cowsay -f dragon-and-cow PROFESSOR VISHAL professorvishal31@gmail.com | lolcat
